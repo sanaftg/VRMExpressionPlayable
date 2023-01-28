@@ -1,2 +1,2 @@
 # VRMExpressionPlayable
-VRM1.0のExpressionをTimelineで制御する。
+VRM1.0のExpressionをUnityのTimelineで制御する。
