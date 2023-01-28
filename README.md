@@ -2,9 +2,9 @@
 VRM1.0のExpressionをUnityのTimelineで制御する。
 
 ## 環境
-Unity2021.x
-VRM1.0
-Timeline
+- Unity2021.x
+- VRM1.0
+- Timeline
 
 ## 使い方
 1. VrmExpBehaviourをVRM10Instanceの付いたオブジェクトに設定
